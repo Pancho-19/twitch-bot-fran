@@ -9,7 +9,7 @@ const client = new tmi.Client({
 	connection: { reconnect: true },
 	identity: {
 		username: 'PanchoUY', //Nombre de tu canal de twitch
-		password: 'oauth:f1ht8e44cthzjey5ezns6oxt1q0hlj' //OAuth de tu canal de twitch (https://twitchapps.com/tmi/)
+		password: 'oauth:' //OAuth de tu canal de twitch (https://twitchapps.com/tmi/)
 	},
 	channels: [ 'PanchoUY' ] //Nuevamemte el nombre de tu canal de twitch
 });
