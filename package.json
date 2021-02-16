@@ -1,0 +1,11 @@
+{
+    "name": "twitch-bot-by-fran",
+    "version": "0.0.1",
+    "description": "Bot for Twitch",
+    "main": "index.js",
+    "license": "ISC",
+    "author": "Francisco Freire",
+    "dependencies": {
+        "tmi.js": "^1.7.1"
+    }
+}
